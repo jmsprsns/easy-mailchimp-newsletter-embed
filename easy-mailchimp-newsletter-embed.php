@@ -3,7 +3,7 @@
  * Plugin Name:       Easy Mailchimp Newsletter Embed
  * Plugin URI:        https://www.contentpowered.com
  * Description:       Mailchimp signup forms you can embed with a shortcode, block or PHP snippet, or show as a popup. Multiple forms, six themes and optional Cloudflare Turnstile.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 5.8
  * Requires PHP:      7.2
  * Author:            Content Powered

@@ -75,5 +75,9 @@ No. Subscribers go straight to Mailchimp. The plugin keeps only signup counts an
 
 See https://github.com/jmsprsns/easy-mailchimp-newsletter-embed/releases for the full release history.
 
+= 1.0.1 =
+* The Updates box no longer overflows on development copies.
+* Update-screen icon matches the plugin's color on contentpowered.com.
+
 = 1.0.0 =
 * First release.
